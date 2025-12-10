@@ -1,0 +1,5 @@
+{
+  "name": "Sketch2Site",
+  "description": "Transform hand-drawn UI sketches into working HTML/Tailwind websites instantly using Gemini AI.",
+  "requestFramePermissions": []
+}
