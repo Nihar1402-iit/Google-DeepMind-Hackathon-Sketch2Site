@@ -125,19 +125,10 @@ The end result is a live web app where anyone can:
 
 ---
 
-# Run and deploy your AI Studio app
+## 📽️ Demo Video
+[Watch the demo on YouTube](https://youtu.be/2bToevN2Sjo)
 
-This contains everything you need to run your app locally.
+## 🚀 Live App Link
+[Open the app in AI Studio](https://aistudio.google.com/apps/drive/1TN39eueCADGyalL2yKN7xZCyCFqctJyG?fullscreenApplet=true&showPreview=true&showAssistant=true)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1TN39eueCADGyalL2yKN7xZCyCFqctJyG
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
